@@ -14,7 +14,7 @@ type Props = {
 export const AppLayout = (props: Props) => {
     const { children } = props
     return (
-        <Box display="flex" className={AppColor.main}>
+        <Box display="flex" className={AppColor.base}>
             <AppHeader />
             <Grid mt="60px" display="flex" container spacing={0}>
                 <AppSidebar />

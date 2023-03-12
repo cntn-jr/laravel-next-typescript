@@ -5,7 +5,7 @@ export const AppHeader = () => {
     return (
         <AppBar
             position="absolute"
-            className={AppColor.base}
+            className={AppColor.main}
             sx={{ color: '#999' }}
         >
             <Box height="60px" display="flex">
