@@ -1,6 +1,7 @@
 /* その名の通りサイトの印象を決定づける主役の色 */
 .base {
-    background-color: #cff5e7;
+    /* background-color: #cff5e7; */
+    background-color: #fff;
 }
 
 /* 最も大きな面積を占める基本となる色で、余白や背景などに用いることが多い */
