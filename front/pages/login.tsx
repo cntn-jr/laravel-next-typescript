@@ -1,10 +1,10 @@
-import { AppLayout } from '@/components/layouts/AppLayout'
+import { AppAuthLayout } from '@/components/layouts/AppAuthLayout'
 
 const login = () => {
     return (
-        <AppLayout>
+        <AppAuthLayout>
             <div>login</div>
-        </AppLayout>
+        </AppAuthLayout>
     )
 }
 
